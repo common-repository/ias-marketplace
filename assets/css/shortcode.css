@@ -1,0 +1,37 @@
+.wp-ias-marketplace-shortcode {
+  width: 100%;
+}
+
+.wp-ias-marketplace-shortcode li {
+  list-style-type: none;
+}
+
+.wp-ias-marketplace-shortcode * ~ * {
+  font-family: sans-serif !important;
+}
+
+.wp-ias-marketplace-shortcode * {
+  font-size: 14px !important;
+}
+
+.ais-SearchBox-submit {
+  padding-right: 50;
+}
+
+.accordionContent .ais-RefinementList-item {
+  /* margin-left: -20px; */
+  padding-left: 10px;
+}
+
+.accordionContent .ais-ToggleRefinement {
+  padding-left: 10px;
+}
+
+ul.ais-Hits-list {
+  padding-left: 0;
+}
+
+/* Wordpress template specific */
+.vc_column-inner {
+  z-index: 0 !important;
+}
